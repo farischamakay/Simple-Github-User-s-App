@@ -5,12 +5,12 @@ This is Github simple app that I created for Dicoding submission 1 Belajar Funda
 Fitur yang harus ada pada aplikasi:
 
  1. List User 
-Syarat:
-✔️ Menampilkan data pada halaman aplikasi dengan minimal jumlah 10 item.
-✔️ Menggunakan RecyclerView untuk menampilkan data.
-✔️ Menggunakan ConstraintLayout untuk menyusun tampilan List Item untuk RecyclerView.
-✔️ Tidak terdapat nested hierarki (ViewGroup di dalam ViewGroup)
-✔️ Setiap view memiliki constraint yang sesuai
+Syarat:<br>
+✔️ Menampilkan data pada halaman aplikasi dengan minimal jumlah 10 item. <br>
+✔️ Menggunakan RecyclerView untuk menampilkan data.<br>
+✔️ Menggunakan ConstraintLayout untuk menyusun tampilan List Item untuk RecyclerView.<br>
+✔️ Tidak terdapat nested hierarki (ViewGroup di dalam ViewGroup)<br>
+✔️ Setiap view memiliki constraint yang sesuai<br>
 
 2. Detail User
 Syarat:
