@@ -13,41 +13,41 @@ Syarat:<br>
 ✔️ Setiap view memiliki constraint yang sesuai<br>
 
 2. Detail User
-Syarat:
-✔️ Terdapat informasi detail dari seorang user. Berikut beberapa informasi yang wajib ditampilkan pada halaman aplikasi: Username, Name dan Avatar
-✔️ Menggunakan Parcelable sebagai interface dari obyek data yang akan dikirimkan antar Activity.
+Syarat:<br>
+✔️ Terdapat informasi detail dari seorang user. Berikut beberapa informasi yang wajib ditampilkan pada halaman aplikasi: Username, Name dan Avatar<br>
+✔️ Menggunakan Parcelable sebagai interface dari obyek data yang akan dikirimkan antar Activity.<br>
 
  # Saran Submission
 Submission dinilai oleh reviewer dengan skala 1-5 berdasarkan dari parameter yang ada.
 
 Mendapatkan nilai tinggi, berikut saran yang harus terpenuhi :
 
-• Menerapkan tampilan aplikasi yang sesuai standar:
-  o Tampilan aplikasi memiliki width, height, margin, dan padding yang sesuai.
-  o Pemilihan warna sesuai dengan tema aplikasi. 
-  o Tidak ada komponen yang saling bertumpuk.
-  o Penggunaan komponen yang sesuai dengan fungsinya.
-  Contoh : Komponen ImageView yang dijadikan sebagai button navigasi.
+• Menerapkan tampilan aplikasi yang sesuai standar:<br>
+  o Tampilan aplikasi memiliki width, height, margin, dan padding yang sesuai.<br>
+  o Pemilihan warna sesuai dengan tema aplikasi. <br>
+  o Tidak ada komponen yang saling bertumpuk.<br>
+  o Penggunaan komponen yang sesuai dengan fungsinya.<br>
+  Contoh : Komponen ImageView yang dijadikan sebagai button navigasi.<br>
   
-• Menuliskan kode dengan bersih.
-  o Bersihkan comment dan kode yang tidak digunakan.
-  o Indentasi yang sesuai.
-  o Menghapus import yang tidak digunakan.
+• Menuliskan kode dengan bersih.<br>
+  o Bersihkan comment dan kode yang tidak digunakan.<br>
+  o Indentasi yang sesuai.<br>
+  o Menghapus import yang tidak digunakan.<br>
   
-• Melengkapi halaman detail dengan informasi seperti berikut:
-  o Follower
-  o Following
-  o Company
-  o Location 
-  o Repository
+• Melengkapi halaman detail dengan informasi seperti berikut:<br>
+  o Follower<br>
+  o Following<br>
+  o Company<br>
+  o Location <br>
+  o Repository<br>
   
-• Terdapat improvisasi fitur seperti (pilih satu): 
-  o Splash screen yang sesuai dengan tema aplikasi.
-  o Share
-  o dsb.
+• Terdapat improvisasi fitur seperti (pilih satu): <br>
+  o Splash screen yang sesuai dengan tema aplikasi.<br>
+  o Share<br>
+  o dsb.<br>
   
-• Membuat dan mengimplementasikan Style baru (Tuliskan penerapan style di kolom catatan). 
-• Mengganti warna primary dan secondary brand pada Theme.
+• Membuat dan mengimplementasikan Style baru (Tuliskan penerapan style di kolom catatan). <br>
+• Mengganti warna primary dan secondary brand pada Theme.<br>
 
 
 Review Star : ⭐⭐⭐⭐
